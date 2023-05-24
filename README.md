@@ -1,4 +1,11 @@
-# Exercicios de JavaScript
+<style>
+   h1{
+      color:green;
+   }
+</style>   
+<h1>
+ Exercicios de JavaScript
+</h1>
 <hr>
 
 ### 1.  Elabore um algoritmo que leia um número, e se ele for maior do que 20, imprimir a metade desse número.  

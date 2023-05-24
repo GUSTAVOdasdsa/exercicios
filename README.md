@@ -1,8 +1,8 @@
-<style>
+
    h1{
       color: blue;
    }
-</style>   
+   
 <h1>
  Exercicios de JavaScript
 </h1>

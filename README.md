@@ -12,7 +12,9 @@
 
 ### 3.  Elabore um algoritmo que leia dois números inteiros e efetue a adição; caso o resultado seja maior que 10, imprima-o.  
 
-### 4.  Elabore um algoritmo que indique se um número digitado está compreendido entre 20 e 90, ou não.  5.  Elabore um algoritmo que leia dois números e imprima o maior número.  
+### 4.  Elabore um algoritmo que indique se um número digitado está compreendido entre 20 e 90, ou não.  
+
+### 5.  Elabore um algoritmo que leia dois números e imprima o maior número.  
 
 ### 6.  Elabore um algoritmo que leia dois números e imprima qual é maior e qual é menor.  
 
